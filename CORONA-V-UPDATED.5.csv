@@ -1,0 +1,73 @@
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,2/9/20 23:33,29631,871,1795
+Guangdong,Mainland China,2/10/20 3:43,1151,1,147
+Zhejiang,Mainland China,2/10/20 1:13,1092,0,201
+Henan,Mainland China,2/10/20 1:13,1073,6,169
+Hunan,Mainland China,2/10/20 2:13,879,1,186
+Anhui,Mainland China,2/10/20 2:03,830,3,73
+Jiangxi,Mainland China,2/10/20 1:23,771,1,102
+Jiangsu,Mainland China,2/10/20 1:43,492,0,72
+Chongqing,Mainland China,2/9/20 23:53,468,2,51
+Shandong,Mainland China,2/10/20 0:43,459,1,63
+Sichuan,Mainland China,2/10/20 1:03,405,1,76
+Beijing,Mainland China,2/10/20 3:13,337,2,44
+Heilongjiang,Mainland China,2/10/20 0:33,331,7,15
+Shanghai,Mainland China,2/10/20 1:33,295,1,44
+Fujian,Mainland China,2/10/20 1:13,261,0,35
+Hebei,Mainland China,2/10/20 0:23,218,2,35
+Shaanxi,Mainland China,2/10/20 2:23,213,0,26
+Guangxi,Mainland China,2/10/20 2:03,210,1,18
+Yunnan,Mainland China,2/9/20 8:53,141,0,18
+Hainan,Mainland China,2/10/20 0:43,136,3,19
+Shanxi,Mainland China,2/9/20 23:43,119,0,25
+Guizhou,Mainland China,2/10/20 1:33,109,1,7
+Liaoning,Mainland China,2/9/20 12:23,107,0,12
+Tianjin,Mainland China,2/10/20 3:43,94,1,4
+Gansu,Mainland China,2/9/20 23:33,83,2,16
+Jilin,Mainland China,2/10/20 0:33,80,1,12
+Diamond Princess cruise ship,Others,2/9/20 6:13,64,0,0
+Inner Mongolia,Mainland China,2/10/20 2:43,58,0,5
+Ningxia,Mainland China,2/10/20 1:43,49,0,13
+Xinjiang,Mainland China,2/10/20 1:13,49,0,0
+,Singapore,2/10/20 3:03,43,0,2
+Hong Kong,Hong Kong,2/10/20 0:03,36,1,0
+,Thailand,2/8/20 12:53,32,0,10
+,South Korea,2/10/20 3:03,27,0,3
+,Japan,2/9/20 6:13,26,0,1
+Qinghai,Mainland China,2/6/20 2:13,18,0,3
+,Malaysia,2/10/20 3:03,18,0,1
+Taiwan,Taiwan,2/9/20 9:13,18,0,1
+,Germany,2/9/20 6:13,14,0,0
+,Vietnam,2/10/20 3:03,14,0,1
+,France,2/8/20 9:53,11,0,0
+Macau,Macau,2/6/20 14:23,10,0,1
+,United Arab Emirates,2/8/20 7:03,7,0,0
+Queensland,Australia,2/9/20 19:33,5,0,0
+New South Wales,Australia,2/6/20 3:13,4,0,2
+Victoria,Australia,2/1/20 18:12,4,0,0
+British Columbia,Canada,2/7/20 5:43,4,0,0
+,India,2/3/20 21:43,3,0,0
+,Italy,2/7/20 17:53,3,0,0
+,Philippines,2/7/20 16:43,3,1,0
+,UK,2/7/20 18:33,3,0,0
+South Australia,Australia,2/2/20 22:33,2,0,0
+"Toronto, ON",Canada,2/4/20 0:13,2,0,0
+,Russia,1/31/20 16:13,2,0,0
+,Spain,2/9/20 20:33,2,0,0
+"Chicago, IL",US,2/9/20 19:03,2,0,2
+"San Benito, CA",US,2/3/20 3:53,2,0,0
+"Santa Clara, CA",US,2/3/20 0:43,2,0,0
+,Belgium,2/4/20 15:43,1,0,0
+,Cambodia,1/31/20 8:15,1,0,0
+"London, ON",Canada,2/4/20 0:03,1,0,0
+,Finland,1/31/20 8:15,1,0,0
+Tibet,Mainland China,2/1/20 1:52,1,0,0
+,Nepal,1/31/20 8:15,1,0,0
+,Sri Lanka,2/8/20 3:43,1,0,1
+,Sweden,2/1/20 2:13,1,0,0
+"Boston, MA",US,2/1/20 19:43,1,0,0
+"Los Angeles, CA",US,2/1/20 19:53,1,0,0
+"Madison, WI",US,2/5/20 21:53,1,0,0
+"Orange, CA",US,2/1/20 19:53,1,0,0
+"Seattle, WA",US,2/9/20 7:03,1,0,1
+"Tempe, AZ",US,2/1/20 19:43,1,0,0
